@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3c45314-395b-49e3-add8-23eb1194c2e2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -257,7 +256,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569375467371</updated>
-      <workItem from="1569375469343" duration="4610000" />
+      <workItem from="1569375469343" duration="4630000" />
     </task>
     <task id="LOCAL-00001" summary="Added greetings method to application&#10;Changing compiler plugin to 1.8">
       <created>1569381182831</created>
@@ -280,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569382064756</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added unit testing">
+      <created>1569384858172</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569384858172</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4610000" />
+    <option name="totallyTimeSpent" value="4630000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
@@ -328,7 +334,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added greetings method to application&#10;Changing compiler plugin to 1.8" />
     <MESSAGE value="Use StringUtils and added dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Use StringUtils and added dependency" />
+    <MESSAGE value="Added unit testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added unit testing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
